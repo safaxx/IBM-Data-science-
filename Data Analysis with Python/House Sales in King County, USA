@@ -1,0 +1,16 @@
+House Sales in King County, USA
+
+This Jupyter Notebook is a hands-on project performed during the data analysis course by IBM/Coursera.
+
+Prerequisites
+1. Jupyter Notebook
+2. Python 3
+3. Python libraries: Pandas, Numpy, Matplotlib, Sklearn
+
+Learning Objective
+1. Create a Jupyter notebook.
+2. Apply data analysis and modeling techniques to housing price data
+
+In this assignment, you are a Data Analyst working at a Real Estate Investment Trust. The Trust will like to start investing in Residential real estate.
+You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or 
+features such as square footage, number of bedrooms, number of floors, and so on.
